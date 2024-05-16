@@ -207,3 +207,66 @@ color: #ffff;
 margin-top: 40px;
 }
 
+#work{
+  margin-top: 510px;
+  margin-bottom: 220px;
+}
+
+.work-heading{
+  text-align: center;
+}
+.work-heading h3{
+  font-size: 25px;
+  font-weight: 700;
+  font-family: "Outfit", sans-serif;
+  color: #F4980D;
+
+}
+.work-heading h2{
+  font-size: 60px;
+  font-weight: 700;
+  font-family: "Outfit", sans-serif;
+  color: #4C4C4C;
+  margin-top: 35px;
+
+}
+.work-heading p{
+  font-size: 25px;
+  font-weight: 600;
+  font-family: "Outfit", sans-serif;
+  color: #828282;
+  margin-top: 35px;
+  width: 717px;
+  margin: 0 auto;
+  margin-bottom: 120px;
+
+}
+.workItem{
+  padding: 21px 20px;
+  /* background: #f1f1f1; */
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  text-align: center;
+  height: fit-content;
+}
+.workItem h3{
+  font-size: 30px;
+  font-weight: 700;
+  font-family: "Outfit", sans-serif;
+  margin-top: 50px;
+  color: #505050;
+
+}
+.workItem p{
+  color: #474747;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "Outfit", sans-serif;
+  margin-top: 50px;
+}
+.workItem img{
+max-width: 100%;
+}
