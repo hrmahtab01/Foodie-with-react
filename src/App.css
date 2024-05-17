@@ -385,3 +385,32 @@ font-weight: 600;
  background: #FE9E0D;
  color: #ffff;
 }
+#footer{
+  margin-bottom: 100px;
+}
+.footer_item h3{
+  font-size: 35px;
+  font-weight: 500;
+  color: #303030;
+  margin-left: 30px;
+  margin-bottom: 35px;
+}
+.footer_item ul{
+  display: flex;
+  gap: 20px;
+ justify-content: start;
+}
+.footer_item ul li{
+  color: #585858;
+  /* width: 48px;
+  height: 48px; */
+  font-size: 38px;
+}
+.footer-tecxt{
+  text-align: center;
+}
+.footer-tecxt ul li{
+  font-size: 20px;
+  font-weight: 700;
+  color: #4C4C4C;
+}
