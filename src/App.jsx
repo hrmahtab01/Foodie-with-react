@@ -3,6 +3,8 @@ import Navbar from './Navbar'
 import Banner from './Banner'
 import About from './About'
 import Work from './Work'
+import Testomoilal from './Testomoilal'
+import Footer from './Footer'
 
 function App() {
   return (
@@ -11,6 +13,8 @@ function App() {
       <Banner/>
       <About/>
       <Work/>
+      <Testomoilal/>
+      <Footer/>
 
    
     </div>
